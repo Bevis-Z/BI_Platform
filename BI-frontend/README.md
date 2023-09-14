@@ -1,6 +1,6 @@
 # Aigc Bi Platform
 
-This project is initialized with [Aigc Bi Platform](https://pro.ant.design). Follow is the quick guide for how to use.
+This project is initialized with [Ant Pro Framework](https://pro.ant.design). Follow is the quick guide for how to use.
 
 ## Environment Prepare
 
